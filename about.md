@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+a lost robotic sheep who wanna build a spacecraft
 
 ### More Information
 
