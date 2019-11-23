@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Latex environment setup for English writing in Atom
+---
+
+### config latex in Atom
+there r too many instructions for this part online
+
+### spelling check for English
+1. enable the core package 'spell check'
+2. enter the Setting of 'spell check', add text.tex.latex to Grammar
+3. for the users whose system language is not English, write en-US in Locales
+4. download 'linter-languagetool' package, this package can provide auto-suggestions functions
